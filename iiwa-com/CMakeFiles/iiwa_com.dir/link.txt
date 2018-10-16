@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -pthread   CMakeFiles/iiwa_com.dir/src/iiwa_client.cpp.o  -o iiwa_com -rdynamic -lboost_system -lboost_thread -lboost_timer -lboost_chrono -lboost_date_time -lboost_atomic -lpthread 
